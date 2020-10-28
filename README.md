@@ -21,11 +21,10 @@ The service has eight APIs divided into two base handlers "/candidate" and "/use
 
 * Database configurations :
 
-spring.datasource.url = "jdbc url"
-spring.datasource.username="username"
-spring.datasource.password="password"
-
-spring.jpa.show-sql = true
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+1. spring.datasource.url = "jdbc url"
+2. spring.datasource.username="username"
+3. spring.datasource.password="password"
+4. spring.jpa.show-sql = true
+5. spring.jpa.hibernate.ddl-auto=update
+6. spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 
