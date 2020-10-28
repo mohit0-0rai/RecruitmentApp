@@ -4,9 +4,9 @@ The service has eight APIs divided into two base handlers "/candidate" and "/use
 
 * Base URL = http://localhost:8080/recruitmentapp
 * Error Codes :
-		200 : Success
-		201 : Created resource
-		400 : Bad request
+		200 : Success,
+		201 : Created resource,
+		400 : Bad request,
 		500 : Server error
 
 * There are eight APIs, base urls and methods are mentioned below :
